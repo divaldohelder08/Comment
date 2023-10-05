@@ -18,11 +18,7 @@ Este é um clone de um componente do livro refactoring ui do tailwindcss, desenv
 
 ## Pré-requisitos
 
-
-Certifique-se de que seu projeto React atenda aos seguintes pré-requisitos para usar o componente Gerador de QR Code:
-
-
-Os pré-requisitos mencionados em sua documentação dependem do contexto específico do seu projeto e do componente Gerador de QR Code. No entanto, geralmente, os pré-requisitos podem incluir o seguinte:
+Certifique-se de que seu projeto React atenda aos seguintes pré-requisitos para usar o componente de mensagens:
 
 - **Node.js**: Certifique-se que tens o node instalado na sua maquina
 ```Blame
@@ -45,6 +41,10 @@ Para a elaboração foi utilizado:
  - typecript
  - css
  - Javascript
+ - shadcn/ui
+ - vite
+ - html
+ - tailwindcss
 
 ## Por favor deixe uma 🌟
 
