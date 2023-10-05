@@ -7,13 +7,12 @@
 Bem-vindo ao repositório do meu projeto. Não esqueça de deixar o seu like!
 
 ## Objectivo
-Este é um componente de gerador de QR Code desenvolvido para ser usado em projetos React. Ele permite que os usuários insiram um conteúdo, como um URL, e gere um código QR correspondente. O componente é responsivo e adapta a exibição de acordo com o tamanho da tela.
+Este é um clone de um componente do livro refactoring ui do tailwindcss, desenvolvido para ser usado em projetos React. Ele permite que os usuários insiram um commentario, lembrado que ñ têm qualquer funcionalidade apenas é um clone. 
 
 ## Recursos Principais
 
-- Gere códigos QR a partir de qualquer URL ou texto personalizado.
+- A posibilidade do textarea poder se adptar a qualquer contedudo do comentario.
 - Interface de usuário intuitiva e amigável.
-- Totalmente responsivo, se adapta a diferentes tamanhos de tela.
 - Altamente personalizável com opções de estilo e tamanho.
 
 
