@@ -3,7 +3,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-# 🌑 Refactoring Card de comentario..
+# 🌑 Refactoring Card de comentario...
 Bem-vindo ao repositório do meu projeto. Não esqueça de deixar o seu like!
 
 ## Objectivo
